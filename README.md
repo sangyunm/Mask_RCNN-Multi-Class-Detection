@@ -1,6 +1,4 @@
 # Mask R-CNN for Food Detection and Segmentation
-#### Chilli Chicken
-![chillic_combined](https://user-images.githubusercontent.com/13174586/48262817-ea553b80-e449-11e8-93e7-29ffe5c530b5.JPG)
 
 <br/><br/><br/> 
 #### Gulab Jamun
@@ -17,6 +15,9 @@
 <br/><br/><br/> 
 #### Tandoori Chicken
 ![tandooric_combined](https://user-images.githubusercontent.com/13174586/48262836-f7722a80-e449-11e8-8751-34edd5ae7e72.JPG)
+
+#### Chilli Chicken
+![chillic_combined](https://user-images.githubusercontent.com/13174586/48262817-ea553b80-e449-11e8-93e7-29ffe5c530b5.JPG)
 
 <br/><br/><br/> 
 #### Visualize Top Mask
