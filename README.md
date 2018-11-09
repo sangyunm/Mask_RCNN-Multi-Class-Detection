@@ -1,6 +1,5 @@
 # Mask R-CNN for Food Detection and Segmentation
 
-<br/><br/><br/> 
 #### Gulab Jamun
 ![gj_combined](https://user-images.githubusercontent.com/13174586/48262819-ec1eff00-e449-11e8-9b9f-6da6d1dc31c1.JPG)
 
