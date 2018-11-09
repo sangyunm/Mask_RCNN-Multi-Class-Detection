@@ -1,3 +1,27 @@
+# Mask R-CNN for Food Detection and Segmentation
+#### Chilli Chicken
+![chillic_combined](https://user-images.githubusercontent.com/13174586/48262817-ea553b80-e449-11e8-93e7-29ffe5c530b5.JPG)
+
+<br/><br/><br/> 
+#### Gulab Jamun
+![gj_combined](https://user-images.githubusercontent.com/13174586/48262819-ec1eff00-e449-11e8-9b9f-6da6d1dc31c1.JPG)
+
+<br/><br/><br/> 
+#### Gulab Jamun with Splash Color
+![gj_combined2](https://user-images.githubusercontent.com/13174586/48262822-ede8c280-e449-11e8-8fcb-bb66125d132b.JPG)
+
+<br/><br/><br/> 
+#### Ice Cream
+![icream_combined](https://user-images.githubusercontent.com/13174586/48262832-f3dea380-e449-11e8-87bd-0c77d9b606c2.JPG)
+
+<br/><br/><br/> 
+#### Tandoori Chicken
+![tandooric_combined](https://user-images.githubusercontent.com/13174586/48262836-f7722a80-e449-11e8-8751-34edd5ae7e72.JPG)
+
+<br/><br/><br/> 
+#### Visualize Top Mask
+![mask_combined](https://user-images.githubusercontent.com/13174586/48262842-fb05b180-e449-11e8-854c-55c157c84578.JPG)
+
 # Mask R-CNN for Object Detection and Segmentation
 
 This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.
